@@ -1,0 +1,21 @@
+h1 {color : red;}
+
+body {background-color: #00aa00;}
+
+h2 {border-width: 10px;
+    border-style: solid;
+    border-color: #ff0000;
+    padding: 40px;
+    margin: 40px;
+}
+
+#imagem-principal {width: 10%;}
+
+.texto-um {background-color: red;}
+
+.texto-dois {background-color: #66ff77;}
+
+.texto-dois {font-size: 15px;}
+
+.palestra {background-color: skyblue;}
+.palestra {font-size: 20px;}
